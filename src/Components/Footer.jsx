@@ -21,10 +21,10 @@ const Footer = () => {
     return (
         <div className='footer'>
             <div className="links">
-                <a href="https://github.com/navneet-chugh"><GitHubIcon /></a>
-                <a href="https://www.linkedin.com/in/navneet-chugh-4ab456129/"><LinkedInIcon /></a>
-                <a href="mailto:navneetchugh15@gmail.com"><AttachEmailIcon /></a>
-                <a href="https://www.instagram.com/navneetchugh15/"><InstagramIcon /></a>
+                <a href="https://github.com/tejbari5"><GitHubIcon /></a>
+                <a href="https://www.linkedin.com/in/tej-bari-0227b4278/"><LinkedInIcon /></a>
+                <a href="mailto:tejbari5@gmail.com"><AttachEmailIcon /></a>
+                <a href="https://www.instagram.com/tej_bari55/"><InstagramIcon /></a>
             </div>
             <div className="themeButton">
                 <Select
